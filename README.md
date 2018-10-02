@@ -1,1 +1,3 @@
 # NyxSense
+This repository will contains matlab based programs linked to the following publication: 'Multiplexed biochemical imaging reveals caspase activation patterns underlying single cell fate', curently published on Bioarchive. Currently this repository is empty and will be updataed towards the end of October 2018.
+Bispoken programs can be used to analyse the biochemical multiplexing data obtained with up to 3 different FRET-based biosensors. Shortly, it contains the features like: phasor-based spectral unmixing and data representation; methods to calculate enzymatic activities from cleavage based FRET biosensors. 
